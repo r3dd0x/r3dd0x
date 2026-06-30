@@ -1,7 +1,3 @@
-Building intelligent systems at the intersection of AI, neuroscience, and applied engineering, with hands-on research and community involvement.
-
-Let's connect at https://www.linkedin.com/in/youssef-ahmed-aziz-65154b23b/
-
 # 💫 About Me:
 Building intelligent systems at the intersection of AI, neuroscience, and applied engineering, with hands-on research and community involvement.<br><br>Let's connect at https://www.linkedin.com/in/youssef-ahmed-aziz-65154b23b/
 
